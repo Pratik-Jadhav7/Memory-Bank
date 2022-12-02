@@ -54,5 +54,5 @@
 
 - Twitter :    [@PratikJadhavv](https://twitter.com/PratikJadhavv?t=csiVpqkc86q9Nvp7aLH3zA&s=09)
 - Github :     [@Pratik-Jadhav7](https://github.com/Pratik-Jadhav7)
-- Linkedin :   [pratikjadhav](https://www.linkedin.com/in/pratikjadhav2003)
+- Linkedin :   [pratikjadhav2003](https://www.linkedin.com/in/pratikjadhav2003)
 - Email :      [jpratik1013@gmail.com](mailto:jpratik1013@gmail.com)
