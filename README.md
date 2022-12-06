@@ -27,7 +27,7 @@
 ## 💡 &nbsp; Key Concepts
 
 - CRUD operations
-- Storing users 
+- Storing users data 
 
 
 ## 💹 &nbsp; Technologies
